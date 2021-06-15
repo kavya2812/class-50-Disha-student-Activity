@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+.header {
+  background-color: lightcoral;
+  display: flex;
+  justify-content: space-between;
+}
